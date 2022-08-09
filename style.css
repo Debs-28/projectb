@@ -1,0 +1,28 @@
+style>
+    img
+    {
+        width: 50%
+    }
+    div{
+        text-align: center;
+    }
+
+    p{
+        color: green;
+        font-size: 25px;
+        font-family:sans-serif
+    }
+
+    h1, h2, h3 {
+        color:blueviolet;
+        font-size: 26px;
+        font-family:sans-serif;
+        border-bottom: blueviolet;
+    
+        
+    }
+    li{
+        color:green;
+        font-size: 25px;
+        font-family:sans-serif
+    }
